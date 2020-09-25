@@ -1,26 +1,37 @@
 # Ahmed Ezzat
 
-### Hi there, I am Software Engineer and a Full stack web developer i mostly work with MERN stack but i also work many other modern technologies and can enjoy picking up new technologies
+### Hi there,
+I am Software Engineer and a Full stack web developer i mostly work with MERN stack but i also work many other modern technologies and enjoy picking up and working with new ones
 
-### Connect with me:
-
-[<img align="left" alt="Ahmed Ezzat" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<img align="left" alt="HTML5" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" />
+<img align="left" alt="CSS3" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" />
+<img align="left" alt="JS" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" />
+<img align="left" alt="Node" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" />
+<img align="left" alt="React" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" />
+<img align="left" alt="MongoDB" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1888890291551942128-512.png" />
+<img align="left" alt="SQL" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1265/1265531.svg"/>
+<img align="left" alt=PostgreSQL" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16876668881551942134-512.png"/>              
+<img align="left" alt="GraphQL" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/21299071571548141943-512.png" />
+<img align="left" alt="Python" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/12785093741551942290-512.png" />
+<img align="left" alt="c#" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/358/358879.svg" />
 
-[linkedin]: https://www.linkedin.com/in/ahmed-ezzat-48b2b9170/
+and many more
+<br />
+
+### Connect with me:
+
+<img align="left" alt="Ahmed Ezzat | LinkedIn" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16090541531530099327-512.png" /> https://www.linkedin.com/in/ahmed-ezzat-48b2b9170/
+
+
+<img align="left" alt="gmail" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /> ahmedezzcs@gmail.com
+                                        
+                                        
+                                       
+
+
+
