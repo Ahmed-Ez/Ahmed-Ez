@@ -1,7 +1,7 @@
 # Ahmed Ezzat
 
 ### Hi there,
-I am Software Engineer, Computer Science grad and a Full stack web developer I work with many modern technologies and enjoy picking up and working with new ones
+I am Software Engineer, Computer Science grad and a Full stack developer I work with many modern technologies and enjoy picking up and working with new ones
 
 
 <br />
