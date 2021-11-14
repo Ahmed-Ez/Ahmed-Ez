@@ -1,7 +1,7 @@
 # Ahmed Ezzat
 
 ### Hi there,
-I am Software Engineer and a Full stack web developer i mostly work with MERN stack but i also work many other modern technologies and enjoy picking up and working with new ones
+I am Software Engineer, Computer Science grad and a Full stack web developer I work with many modern technologies and enjoy picking up and working with new ones
 
 
 <br />
