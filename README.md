@@ -8,27 +8,31 @@ I am Software Engineer and a Full stack web developer i mostly work with MERN st
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/226/226269.svg" />
-<img align="left" alt="CSS3" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" />
-<img align="left" alt="JS" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" />
-<img align="left" alt="Node" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg" />
-<img align="left" alt="React" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" />
-<img align="left" alt="MongoDB" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1888890291551942128-512.png" />
-<img align="left" alt="SQL" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1265/1265531.svg"/>
-<img align="left" alt=PostgreSQL" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16876668881551942134-512.png"/>              
-<img align="left" alt="GraphQL" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/21299071571548141943-512.png" />
-<img align="left" alt="Python" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/12785093741551942290-512.png" />
-<img align="left" alt="c#" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/358/358879.svg" />
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
+![Node.Js](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+![CSharp](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=C%20Sharp)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=.NET)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)            
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
 
 and many more
 <br />
 
 ### Connect with me:
 
-<img align="left" alt="Ahmed Ezzat | LinkedIn" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/16090541531530099327-512.png" /> https://www.linkedin.com/in/ahmed-ezzat-48b2b9170/
+ <a href="https://www.linkedin.com/in/ahmed-ezzat-48b2b9170/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin"/></a>
 
 
-<img align="left" alt="gmail" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /> ahmedezzcs@gmail.com
+<img src="https://img.shields.io/badge/-Gmail-0077B5?style=flat&logo=Gmail"/></a> ahmedezzcs@gmail.com
                                         
                                         
                                        
